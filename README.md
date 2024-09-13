@@ -2,13 +2,13 @@
 <h1 align="center">Hi , I'm Mahnoor</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
-- 🔭 I’m currently working on **School Website**
+- 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **From Social Media Plattforms**
 
-- 📄 Know about my experiences [file:///C:/Users/Lenovo/Downloads/SS%20Folder/CV.pdf](file:///C:/Users/Lenovo/Downloads/SS%20Folder/CV.pdf)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
